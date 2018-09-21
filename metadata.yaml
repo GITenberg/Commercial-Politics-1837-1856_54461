@@ -1,0 +1,41 @@
+_repo: Commercial-Politics-1837-1856_54461
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Gretton, R. H. (Richard Henry)
+    alias: Gretton, Richard Henry
+    birthdate: 1874
+    gutenberg_agent_id: '47887'
+    url: http://www.gutenberg.org/2009/agents/47887
+creator:
+  editors:
+  - agent_name: Bell, Kenneth (Kenneth Norman)
+    aliases:
+    - Bell, K. (Kenneth Norman)
+    - Bell, Kenneth Norman
+    birthdate: 1884
+    deathdate: 1951
+    gutenberg_agent_id: '45568'
+    url: http://www.gutenberg.org/2009/agents/45568
+  - agent_name: Winbolt, S. E. (Samuel Edward)
+    alias: Winbolt, Samuel Edward
+    birthdate: 1868
+    deathdate: 1944
+    gutenberg_agent_id: '45567'
+    url: http://www.gutenberg.org/2009/agents/45567
+description: ''
+gutenberg_issued: '2017-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54461'
+  lccn: a15002138
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- 19th century -- Sources'
+- !lcc 'DA'
+- GITenberg
+title: Commercial Politics (1837-1856)
+url: http://www.gutenberg.org/ebooks/54461
