@@ -1,5 +1,5 @@
 _repo: Commercial-Politics-1837-1856_54461
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Gretton, R. H. (Richard Henry)
@@ -7,6 +7,9 @@ contributor:
     birthdate: 1874
     gutenberg_agent_id: '47887'
     url: http://www.gutenberg.org/2009/agents/47887
+covers:
+- cover_type: archival
+  image_path: 54461-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Bell, Kenneth (Kenneth Norman)
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '45567'
     url: http://www.gutenberg.org/2009/agents/45567
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54461#Commercial-Politics-1837-1856
 gutenberg_issued: '2017-03-31'
 gutenberg_type: Text
 identifiers:
